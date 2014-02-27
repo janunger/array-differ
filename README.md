@@ -2,6 +2,8 @@
 
 Simple differ component for PHP which calculates a delta array out of two given arrays or hashmaps
 
+[![Build Status](https://api.travis-ci.org/janunger/array-differ.png?branch=master)](http://travis-ci.org/janunger/array-differ)
+
 ## Installation
 
 You can use [Composer](http://getcomposer.org/) to download and install this package as well as its dependencies.
