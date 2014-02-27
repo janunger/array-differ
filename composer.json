@@ -1,0 +1,20 @@
+{
+    "name": "juit/array-differ",
+    "description": "",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Unger",
+            "email": "ju@juit.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    }
+}
